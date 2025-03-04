@@ -13,3 +13,4 @@ I applied Exploratory Data Analysis (EDA) on the data and tried answer the follo
 
 ![Dashboard_Image](https://github.com/user-attachments/assets/55b27055-250c-4e8d-b775-119ba2d87e48)
 
+- It can be seen that the revenue rose from 2018 to 2019 but declined again in 2020.
