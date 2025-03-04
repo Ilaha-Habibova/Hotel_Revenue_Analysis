@@ -21,5 +21,6 @@ I applied Exploratory Data Analysis (EDA) on the data and tried answer the follo
 - There was a decline in the total number of nights booked by customers from 2019 to 2020.
 - The hotel increased its discount percentage from 2019 to 2020 to draw in more customers.
   
+<br><br><br>
 
   This project utilizes techniques and insights learned from <a href="https://absentdata.com/">AbsentData</a>.
