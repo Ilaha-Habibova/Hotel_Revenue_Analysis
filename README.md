@@ -1,2 +1,2 @@
 # Hotel_Revenue_Analysis
-I built a database using hotel data in SQL Server Management Studio, created SQL queries to analyze revenue growth, hotel type trends, and parking patterns. Then I designed an interactive Power BI dashboard to present the results.
+I created a database in SQL Server Management Studio using the hotel data from Excel. I then wrote SQL queries to analyze revenue growth, trends by hotel type, and parking patterns. Finally, I designed an interactive Power BI dashboard to display the results.
