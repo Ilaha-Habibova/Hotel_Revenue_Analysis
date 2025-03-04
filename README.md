@@ -11,6 +11,7 @@ I applied Exploratory Data Analysis (EDA) on the data and tried answer the follo
    
 <a href="https://github.com/Ilaha-Habibova/Hotel_Revenue_Analysis/blob/main/Dashboard_Image.png">Dashboard</a>
 
-![Dashboard_Image](https://github.com/user-attachments/assets/55b27055-250c-4e8d-b775-119ba2d87e48)
+![Dashboard_Image](https://github.com/user-attachments/assets/8d6a744f-fae5-414d-b3ea-c0e62c86e0af)
+
 
 - It can be seen that the revenue rose from 2018 to 2019 but declined again in 2020.
