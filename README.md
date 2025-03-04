@@ -8,4 +8,6 @@ I applied Exploratory Data Analysis (EDA) on the data and tried answer the follo
 1) Is our hotel revenue growing yearly?
 2) Should we increase our parking lot size?
 3) What trends can we see in the data?
+   
+<a href="https://github.com/Ilaha-Habibova/Hotel_Revenue_Analysis/blob/main/Dashboard_Image.png">View Dashboard</a>
 
