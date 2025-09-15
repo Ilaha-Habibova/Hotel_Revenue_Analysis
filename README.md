@@ -23,4 +23,5 @@ I applied Exploratory Data Analysis (EDA) on the data and tried answer the follo
   
 <br><br><br>
 
+## Note:
   This project utilizes techniques and insights learned from <a href="https://absentdata.com/">AbsentData</a>.
